@@ -45,7 +45,7 @@ Full Stack Developer passionate about crafting efficient web solutions and autom
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanjeetsharma&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanjeet09&show_icons=true&theme=radical)
 
 ## 🌟 Professional Experience
 

@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 - 💻 Currently freelancing as a **Web Developer**
-- 📚 Learning **Next.js** and **Advanced System Design**
+- 📚 Learning **Next.js**
 - 🚀 Open for **Freelance Projects** and **Full-time Opportunities**
 - 🎯 2024 Goal: Contribute to **Open Source Projects**
 - 🎉 Fun fact: I enjoy finding ways to make my work smoother with creative code!
